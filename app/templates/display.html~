@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> NASA API SHOWCASE - CSS </title>
+  </head>
+  <body>
+        <p> {{ desc }} </p>
+        <img src="{{ img }}"></img>
+  </body>
+</html>
